@@ -1,5 +1,5 @@
 - 🤜🤛  Hi, Bro Hope you are Doing Great.
-- 👋 Hi, I’m @santhosh-shetty
+- 👋 I’m @santhosh-shetty
 - 👀 I’m interested in Exploring new projects.
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps Projects
